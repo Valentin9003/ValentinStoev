@@ -1,2 +1,2 @@
 # ValentinStoev
-Website for me and my skills
+Website about me
